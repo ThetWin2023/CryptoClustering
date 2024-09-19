@@ -7,4 +7,7 @@
 
 This module focuses on a machine learning concept known as unsupervised learning. With unsupervised learning, algorithms use test data to build models that categorize the relationships among data points. For example, when you review an item for purchase on a website, unsupervised learning algorithms might identify related items that people frequently purchase together.
 
-Python package used: scikit-learn.
+Python package used: ###scikit-learn.
+
+
+In this challenge, you'll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
